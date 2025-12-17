@@ -2,9 +2,8 @@
     --bg-color: #0d0d0d;
     --card-bg: rgba(30, 30, 30, 0.6);
     --card-border: rgba(255, 255, 255, 0.1);
-    --accent-color: #ff4655;
-    /* Valorant/Gaming Red feel */
-    --accent-glow: rgba(255, 70, 85, 0.4);
+    --accent-color: #0257c7;
+    --accent-glow: rgba(38, 0, 255, 0.4);
     --text-primary: #ffffff;
     --text-secondary: #b3b3b3;
     --font-main: 'Outfit', sans-serif;
@@ -25,6 +24,12 @@ body {
     overflow-x: hidden;
 }
 
+footer {
+    text-align: center;
+    padding: -10px;
+    font-size: 12px
+}
+
 /* Scrollbar Styling */
 ::-webkit-scrollbar {
     width: 8px;
@@ -43,7 +48,6 @@ body {
     background: var(--accent-color);
 }
 
-/* Header */
 header {
     text-align: center;
     padding: 60px 20px 40px;
