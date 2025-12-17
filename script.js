@@ -129,7 +129,7 @@ function renderItems() {
         const div = document.createElement('div');
         div.className = 'item';
 
-        const imgSrc = `/assets/icons/${item.itemID}_rgb.png`;
+        const imgSrc = `./assets/icons/${item.itemID}_rgb.png`;
 
         div.innerHTML = `
             <img src="${imgSrc}" alt="${item.icon}" loading="lazy" onerror="this.src='https://placehold.co/100x100/1c1c1c/FFF?text=?'">
@@ -219,7 +219,7 @@ function changePage(newPage) {
 
 // Modal Functions
 function openModal(item) {
-    modalIcon.src = `/assets/icons/${item.itemID}_rgb.png`;
+    modalIcon.src = `./assets/icons/${item.itemID}_rgb.png`;
     modalID.textContent = `ID: ${item.itemID}`;
     modalTitle.textContent = item.description || 'Item Desconhecido';
     modalDescription.textContent = item2Icon(item);
