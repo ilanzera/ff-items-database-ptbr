@@ -130,10 +130,17 @@ function renderItems() {
         div.className = 'item';
 
         const imgSrc = `./assets/icons/${item.itemID}_rgb.png`;
+        const fallbackSrc = `./assets/icons/NONE.png`;
 
         div.innerHTML = `
-            <img src="${imgSrc}" alt="${item.icon}" loading="lazy" onerror="this.src='https://placehold.co/100x100/1c1c1c/FFF?text=?'">
-            <div style="margin-top: 10px; font-size: 0.8rem; color: #888;">${item.itemID}</div>
+            <img 
+                src="${imgSrc}" 
+                alt="${item.icon || 'Item'}" 
+                loading="lazy"
+                onerror="this.onerror=null; this.src='${fallbackSrc}'">
+            <div style="margin-top: 10px; font-size: 0.8rem; color: #888;">
+                ${item.itemID}
+            </div>
         `;
 
         div.addEventListener('click', () => {
@@ -219,6 +226,10 @@ function changePage(newPage) {
 
 // Modal Functions
 function openModal(item) {
+    modalIcon.onerror = () => {
+        modalIcon.src = './assets/icons/NONE.png';
+    };
+
     modalIcon.src = `./assets/icons/${item.itemID}_rgb.png`;
     modalID.textContent = `ID: ${item.itemID}`;
     modalTitle.textContent = item.description || 'Item Desconhecido';
@@ -247,3 +258,4 @@ document.addEventListener('keydown', (e) => {
         closeModal();
     }
 });
+
