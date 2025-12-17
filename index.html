@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FF Database | Premium Items</title>
+    <!-- Google Fonts: Outfit for a premium modern look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Free Fire Database <span class="highlight">BR</span></h1>
+        <p class="subtitle">Explore a coleção completa de itens</p>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Pesquisar por ID ou Nome..." autocomplete="off">
+
+            <div class="filters">
+                <select id="typeFilter">
+                    <option value="">Todos os Tipos</option>
+                    <!-- Options populated by JS -->
+                </select>
+                <select id="collectionFilter">
+                    <option value="">Todas as Coleções</option>
+                    <!-- Options populated by JS -->
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="items" class="grid"></div>
+
+        <div class="pagination-container">
+            <!-- Buttons will be injected by JS -->
+            <div id="paginationControls"></div>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content glass">
+            <span class="close" id="closeModal">&times;</span>
+            <div class="modal-body">
+                <img id="modalIcon" src="" alt="Icon"
+                    onerror="this.src='https://placehold.co/150x150/1c1c1c/FFF?text=No+Image'">
+                <p id="modalID" style="color: var(--text-secondary); margin-bottom: 5px; font-size: 0.9rem;">ID: -</p>
+                <h2 id="modalTitle">Nome do Item</h2>
+                <p id="modalDescription">Descrição do item.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
