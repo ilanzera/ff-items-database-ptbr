@@ -4,12 +4,11 @@ let allItems = [];
 let filteredItems = [];
 let currentPage = 1;
 
-// DOM Elements
 const itemsContainer = document.getElementById('items');
 const paginationControls = document.getElementById('paginationControls');
 const searchInput = document.getElementById('searchInput');
-const typeFilter = document.getElementById('typeFilter'); // New Type Filter
-const collectionFilter = document.getElementById('collectionFilter'); // New Collection Filter
+const typeFilter = document.getElementById('typeFilter');
+const collectionFilter = document.getElementById('collectionFilter');
 const modal = document.getElementById('modal');
 const modalIcon = document.getElementById('modalIcon');
 const modalID = document.getElementById('modalID');
@@ -17,7 +16,6 @@ const modalTitle = document.getElementById('modalTitle');
 const modalDescription = document.getElementById('modalDescription');
 const closeModalBtn = document.getElementById('closeModal');
 
-// Fetch Data
 fetch(DATA_URL)
     .then(response => {
         if (!response.ok) throw new Error('Network response was not ok');
@@ -26,7 +24,7 @@ fetch(DATA_URL)
     .then(data => {
         allItems = data;
         filteredItems = data;
-        populateFilters(); // Populate dropdowns
+        populateFilters();
         renderItems();
         renderPagination();
     })
@@ -35,31 +33,27 @@ fetch(DATA_URL)
         itemsContainer.innerHTML = '<p style="text-align:center; grid-column: 1/-1;">Erro ao carregar itens. Verifique se está usando um servidor local (Live Server).</p>';
     });
 
-// Populate Filters
 function populateFilters() {
     const itemTypes = new Set();
     const collectionTypes = new Set();
 
     allItems.forEach(item => {
-        // itemType
         if (item.itemType !== undefined && item.itemType !== null && item.itemType !== "") {
             itemTypes.add(item.itemType);
         }
 
-        // collectionType
         if (item.collectionType !== undefined && item.collectionType !== null && item.collectionType !== "") {
             collectionTypes.add(item.collectionType);
         }
     });
 
-    // Limpa e recria (garante não duplicar)
     typeFilter.innerHTML = '<option value="">Todos os Tipos</option>';
     collectionFilter.innerHTML = '<option value="">Todas as Coleções</option>';
 
     [...itemTypes].sort().forEach(type => {
         const option = document.createElement('option');
-        option.value = type;          // valor REAL do JSON
-        option.textContent = type;    // texto REAL do JSON
+        option.value = type; 
+        option.textContent = type;
         typeFilter.appendChild(option);
     });
 
@@ -72,29 +66,24 @@ function populateFilters() {
 }
 
 function formatFilterName(str) {
-    // Converts "MY_TYPE" to "My Type" for better readability (optional)
     return str.replace(/_/g, ' ').toLowerCase().replace(/\b\w/g, l => l.toUpperCase());
 }
 
-// Unified Filter Function
 function applyFilters() {
     const searchTerm = searchInput.value.toLowerCase().trim();
-    const selectedType = typeFilter.value;              // "" = Todos
-    const selectedCollection = collectionFilter.value; // "" = Todas
+    const selectedType = typeFilter.value;
+    const selectedCollection = collectionFilter.value;
 
     filteredItems = allItems.filter(item => {
 
-        // Busca por ID ou descrição
         const searchMatch =
             searchTerm === "" ||
             item.itemID.toString().includes(searchTerm) ||
             (item.description && item.description.toLowerCase().includes(searchTerm));
 
-        // Filtro de tipo (só filtra se o usuário escolheu)
         const typeMatch =
             selectedType === "" || item.itemType === selectedType;
 
-        // Filtro de coleção (só filtra se o usuário escolheu)
         const collectionMatch =
             selectedCollection === "" || item.collectionType === selectedCollection;
 
@@ -106,13 +95,11 @@ function applyFilters() {
     renderPagination();
 }
 
-// Event Listeners for Filters
 searchInput.addEventListener('input', applyFilters);
 typeFilter.addEventListener('change', applyFilters);
 collectionFilter.addEventListener('change', applyFilters);
 
 
-// Render Items Grid
 function renderItems() {
     itemsContainer.innerHTML = '';
 
@@ -143,6 +130,7 @@ function renderItems() {
             </div>
         `;
 
+
         div.addEventListener('click', () => {
             openModal(item);
         });
@@ -151,14 +139,12 @@ function renderItems() {
     });
 }
 
-// Render Pagination Controls
 function renderPagination() {
     paginationControls.innerHTML = '';
     const totalPages = Math.ceil(filteredItems.length / ITEMS_PER_PAGE);
 
     if (totalPages <= 1) return;
 
-    // Prev Button
     const prevBtn = createPageButton('«', currentPage > 1, () => changePage(currentPage - 1));
     paginationControls.appendChild(prevBtn);
 
@@ -193,7 +179,6 @@ function renderPagination() {
         paginationControls.appendChild(createPageButton(totalPages, true, () => changePage(totalPages)));
     }
 
-    // Next Button
     const nextBtn = createPageButton('»', currentPage < totalPages, () => changePage(currentPage + 1));
     paginationControls.appendChild(nextBtn);
 }
@@ -224,7 +209,6 @@ function changePage(newPage) {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-// Modal Functions
 function openModal(item) {
     modalIcon.onerror = () => {
         modalIcon.src = './assets/icons/NONE.png';
@@ -258,4 +242,3 @@ document.addEventListener('keydown', (e) => {
         closeModal();
     }
 });
-
