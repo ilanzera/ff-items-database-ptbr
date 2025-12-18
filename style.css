@@ -101,7 +101,7 @@ h1 {
 #searchInput:focus {
     background: rgba(50, 50, 50, 0.8);
     border-color: var(--accent-color);
-    box-shadow: 0 0 15px rgba(255, 70, 85, 0.3);
+    box-shadow: 0 0 15px rgba(73, 70, 255, 0.3);
 }
 
 .filters {

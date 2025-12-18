@@ -217,13 +217,13 @@ function openModal(item) {
     modalIcon.src = `./assets/icons/${item.itemID}_rgb.png`;
     modalID.textContent = `ID: ${item.itemID}`;
     modalTitle.textContent = item.description || 'Item Desconhecido';
-    modalDescription.textContent = item2Icon(item);
+    modalDescription.textContent = item2Description2(item);
     modal.classList.add('active');
 }
 
-function item2Icon(item) {
-    if (item.icon && item.icon !== "NONE" && item.icon !== "Nulla") return item.icon;
-    if (item.icon2 && item.icon2 !== "NONE") return item.icon2;
+function item2Description2(item) {
+    if (item.description2 && item.description2 !== "NONE" && item.description2 !== "Nulla") return item.description2;
+    if (item.description2 && item.description2 !== "NONE") return item.description2;
     return "Sem descrição disponível.";
 }
 
