@@ -35,4 +35,4 @@ Puxe requests, reporte os bugs e me dê novas ideias!
 
 ---
 
-> **Note:** Este conteúdo não está afiliado a nenhuma parte da Garena ou do Free Fire. Uso apenas para fins educacionais e para auxiliar na busca de itens dentro do jogo.
+> **IMPORTANTE:** Este conteúdo não está afiliado a nenhuma parte da Garena ou do Free Fire. Uso apenas para fins educacionais e para auxiliar na busca de itens dentro do jogo.
