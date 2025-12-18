@@ -1,4 +1,4 @@
-# Free Fire Items Database | PT-BR
+# Free Fire Items Database Portuguese
 
 Um banco de dados completo, com código aberto para uso, onde poderão buscar itens do jogo Free Fire. Você pode encontrar ID's, nomes e imagens. Totalmente criado para a comunidade de Free Fire!
 
