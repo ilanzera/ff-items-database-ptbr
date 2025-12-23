@@ -9,6 +9,7 @@ const paginationControls = document.getElementById('paginationControls');
 const searchInput = document.getElementById('searchInput');
 const typeFilter = document.getElementById('typeFilter');
 const collectionFilter = document.getElementById('collectionFilter');
+const tagFilter = document.getElementById('tagFilter');
 const modal = document.getElementById('modal');
 const modalIcon = document.getElementById('modalIcon');
 const modalID = document.getElementById('modalID');
@@ -36,6 +37,7 @@ fetch(DATA_URL)
 function populateFilters() {
     const itemTypes = new Set();
     const collectionTypes = new Set();
+    const tagTypes = new Set();
 
     allItems.forEach(item => {
         if (item.itemType !== undefined && item.itemType !== null && item.itemType !== "") {
@@ -45,14 +47,19 @@ function populateFilters() {
         if (item.collectionType !== undefined && item.collectionType !== null && item.collectionType !== "") {
             collectionTypes.add(item.collectionType);
         }
+
+        if (item.tag !== undefined && item.tag !== null && item.tag !== "") {
+            tagTypes.add(item.tag);
+        }
     });
 
     typeFilter.innerHTML = '<option value="">Todos os Tipos</option>';
     collectionFilter.innerHTML = '<option value="">Todas as Coleções</option>';
+    tagFilter.innerHTML = '<option value="">Todas as Atualizações</option>';
 
     [...itemTypes].sort().forEach(type => {
         const option = document.createElement('option');
-        option.value = type; 
+        option.value = type;
         option.textContent = type;
         typeFilter.appendChild(option);
     });
@@ -62,6 +69,13 @@ function populateFilters() {
         option.value = type;
         option.textContent = type;
         collectionFilter.appendChild(option);
+    });
+
+    [...tagTypes].sort().forEach(tag => {
+        const option = document.createElement('option');
+        option.value = tag;
+        option.textContent = tag;
+        tagFilter.appendChild(option);
     });
 }
 
@@ -73,6 +87,7 @@ function applyFilters() {
     const searchTerm = searchInput.value.toLowerCase().trim();
     const selectedType = typeFilter.value;
     const selectedCollection = collectionFilter.value;
+    const selectedTag = tagFilter.value;
 
     filteredItems = allItems.filter(item => {
 
@@ -87,7 +102,10 @@ function applyFilters() {
         const collectionMatch =
             selectedCollection === "" || item.collectionType === selectedCollection;
 
-        return searchMatch && typeMatch && collectionMatch;
+        const tagMatch =
+            selectedTag === "" || item.tag === selectedTag;
+
+        return searchMatch && typeMatch && collectionMatch && tagMatch;
     });
 
     currentPage = 1;
@@ -98,6 +116,7 @@ function applyFilters() {
 searchInput.addEventListener('input', applyFilters);
 typeFilter.addEventListener('change', applyFilters);
 collectionFilter.addEventListener('change', applyFilters);
+tagFilter.addEventListener('change', applyFilters);
 
 
 function renderItems() {
