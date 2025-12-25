@@ -31,7 +31,7 @@ fetch(DATA_URL)
     })
     .catch(error => {
         console.error('Erro ao carregar o JSON:', error);
-        itemsContainer.innerHTML = '<p style="text-align:center; grid-column: 1/-1;">Erro ao carregar itens. Verifique se está usando um servidor local (Live Server).</p>';
+        itemsContainer.innerHTML = '<p style="text-align:center; grid-column: 1/-1;">Erro ao carregar itens.</p>';
     });
 
 function populateFilters() {
