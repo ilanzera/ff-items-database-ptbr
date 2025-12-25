@@ -321896,7 +321896,7 @@
         "icon": "NONE",
         "itemID": "203052036",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -322282,7 +322282,7 @@
         "icon": "NONE",
         "itemID": "204052033",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -322679,7 +322679,7 @@
         "icon": "NONE",
         "itemID": "205052034",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -323230,7 +323230,7 @@
         "icon": "NONE",
         "itemID": "211052048",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -323264,7 +323264,7 @@
         "icon": "NONE",
         "itemID": "211052051",
         "description": "Capacete do Tesouro Lv.2", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -323276,7 +323276,7 @@
         "icon": "NONE",
         "itemID": "211052052",
         "description": "Capacete do Tesouro Lv.3", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -323288,7 +323288,7 @@
         "icon": "NONE",
         "itemID": "211052053",
         "description": "Capacete do Tesouro Lv.4", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325467,7 +325467,7 @@
         "icon": "NONE",
         "itemID": "901052019",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325699,7 +325699,7 @@
         "icon": "NONE",
         "itemID": "902052021",
         "description": "Avatar Gladiadores FF (Ouro)",
-        "description_conferir_eicon": "";
+        "description_conferir_eicon": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325711,7 +325711,7 @@
         "icon": "NONE",
         "itemID": "902052022",
         "description": "Avatar Gladiadores FF (Platina)",
-        "description_conferir_eicon": "";
+        "description_conferir_eicon": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325723,7 +325723,7 @@
         "icon": "NONE",
         "itemID": "902052023",
         "description": "Avatar Gladiadores FF (Diamante)",
-        "description_conferir_eicon": "";
+        "description_conferir_eicon": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325735,7 +325735,7 @@
         "icon": "NONE",
         "itemID": "902052024",
         "description": "Avatar Gladiadores FF (Mestre)",
-        "description_conferir_eicon": "";
+        "description_conferir_eicon": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325747,7 +325747,7 @@
         "icon": "NONE",
         "itemID": "902052025",
         "description": "The Untraceable Avatar", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325825,7 +325825,7 @@
         "icon": "NONE",
         "itemID": "903052006",
         "description": "Espólio - Viagem Condenada", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -326618,7 +326618,7 @@
         "icon": "NONE",
         "itemID": "907105241",
         "description": "Granada - Explosão Ondulante", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -326894,7 +326894,7 @@
         "icon": "NONE",
         "itemID": "909052001",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -326906,7 +326906,7 @@
         "icon": "NONE",
         "itemID": "909052002",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327083,7 +327083,7 @@
         "icon": "NONE",
         "itemID": "909052018",
         "description": "", 
-        "description_conferir": ""; 
+        "description_conferir": "", 
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327095,7 +327095,7 @@
         "icon": "NONE",
         "itemID": "912052001",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327107,7 +327107,7 @@
         "icon": "NONE",
         "itemID": "912052002",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327273,7 +327273,7 @@
         "icon": "NONE",
         "itemID": "921052001",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327285,7 +327285,7 @@
         "icon": "NONE",
         "itemID": "921052002",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327297,7 +327297,7 @@
         "icon": "NONE",
         "itemID": "921052003",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327309,7 +327309,7 @@
         "icon": "NONE",
         "itemID": "921052004",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327321,7 +327321,7 @@
         "icon": "NONE",
         "itemID": "921052005",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327333,7 +327333,7 @@
         "icon": "NONE",
         "itemID": "921052006",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327345,7 +327345,7 @@
         "icon": "NONE",
         "itemID": "921052007",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327357,7 +327357,7 @@
         "icon": "NONE",
         "itemID": "921052008",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327369,7 +327369,7 @@
         "icon": "NONE",
         "itemID": "921052009",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327381,7 +327381,7 @@
         "icon": "NONE",
         "itemID": "921052010",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327393,7 +327393,7 @@
         "icon": "NONE",
         "itemID": "921052011",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327405,7 +327405,7 @@
         "icon": "NONE",
         "itemID": "921052012",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327417,7 +327417,7 @@
         "icon": "NONE",
         "itemID": "921052013",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327429,7 +327429,7 @@
         "icon": "NONE",
         "itemID": "921052014",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327441,7 +327441,7 @@
         "icon": "NONE",
         "itemID": "921052015",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327453,7 +327453,7 @@
         "icon": "NONE",
         "itemID": "921052016",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327465,7 +327465,7 @@
         "icon": "NONE",
         "itemID": "921052017",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327477,7 +327477,7 @@
         "icon": "NONE",
         "itemID": "921052018",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327489,7 +327489,7 @@
         "icon": "NONE",
         "itemID": "921052019",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327501,7 +327501,7 @@
         "icon": "NONE",
         "itemID": "921052020",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327513,7 +327513,7 @@
         "icon": "NONE",
         "itemID": "921052021",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327612,7 +327612,7 @@
     {
         "icon": "NONE",
         "itemID": "921052030",
-        "description": Acelera, que o tesouro não espera!"",
+        "description": "Acelera, que o tesouro não espera!",
         "description2": "Pacote de voz Tesouro Perdido",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327635,7 +327635,7 @@
         "icon": "NONE",
         "itemID": "921052032",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327647,7 +327647,7 @@
         "icon": "NONE",
         "itemID": "921052033",
         "description": "", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327725,7 +327725,7 @@
         "icon": "NONE",
         "itemID": "926005205",
         "description": "Moldura Vencer o Carnaval", 
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327737,7 +327737,7 @@
         "icon": "NONE",
         "itemID": "926005206",
         "description": "Moldura Vencer o Carnaval",
-        "description_conferir": "";
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327759,7 +327759,7 @@
         "icon": "NONE",
         "itemID": "923052001",
         "description": "Disparo final - Chuva de Grana",
-        "description_conferir_eicon": "";
+        "description_conferir_eicon": "",
         "description2": "Vem com efeito especial no céu, de disparo final e de aniquilação em equipe. Aplicável a todas as skins.",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
