@@ -321894,6 +321894,17 @@
     },
     {
         "icon": "NONE",
+        "itemID": "203052036",
+        "description": "", //conferir
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "collectionType": "",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
         "itemID": "203052037",
         "description": "Coelho de Chocolate (Torso)",
         "description2": "",
@@ -322259,6 +322270,17 @@
         "icon": "NONE",
         "itemID": "204052032",
         "description": "Alga do Mar (Pernas)",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "collectionType": "",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "204052033",
+        "description": "", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -322644,6 +322666,17 @@
         "icon": "NONE",
         "itemID": "205052033",
         "description": "Barbatana Celestial (Calçado)",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "collectionType": "",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "205052034",
+        "description": "", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -323192,6 +323225,17 @@
     },
     {
         "icon": "NONE",
+        "itemID": "211052048",
+        "description": "", //conferir
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "collectionType": "",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
         "itemID": "211052049",
         "description": "Coelho de Chocolate (Máscara)",
         "description2": "",
@@ -323215,7 +323259,7 @@
     {
         "icon": "NONE",
         "itemID": "211052051",
-        "description": "Capacete do Tesouro Lv.2",
+        "description": "Capacete do Tesouro Lv.2", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -323226,7 +323270,7 @@
     {
         "icon": "NONE",
         "itemID": "211052052",
-        "description": "Capacete do Tesouro Lv.3",
+        "description": "Capacete do Tesouro Lv.3", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -323237,7 +323281,7 @@
     {
         "icon": "NONE",
         "itemID": "211052053",
-        "description": "Capacete do Tesouro Lv.4",
+        "description": "Capacete do Tesouro Lv.4", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325415,7 +325459,7 @@
     {
         "icon": "NONE",
         "itemID": "901052019",
-        "description": "",
+        "description": "", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325646,7 +325690,7 @@
     {
         "icon": "NONE",
         "itemID": "902052021",
-        "description": "Avatar Gladiadores FF (Ouro)",
+        "description": "Avatar Gladiadores FF (Ouro)", //conferir e pegar icon
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325657,7 +325701,7 @@
     {
         "icon": "NONE",
         "itemID": "902052022",
-        "description": "Avatar Gladiadores FF (Platina)",
+        "description": "Avatar Gladiadores FF (Platina)", //conferir e pegar icon
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325668,7 +325712,7 @@
     {
         "icon": "NONE",
         "itemID": "902052023",
-        "description": "Avatar Gladiadores FF (Diamante)",
+        "description": "Avatar Gladiadores FF (Diamante)", //conferir e pegar icon
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325679,7 +325723,7 @@
     {
         "icon": "NONE",
         "itemID": "902052024",
-        "description": "Avatar Gladiadores FF (Mestre)",
+        "description": "Avatar Gladiadores FF (Mestre)", //conferir e pegar icon
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325690,7 +325734,7 @@
     {
         "icon": "NONE",
         "itemID": "902052025",
-        "description": "The Untraceable Avatar",
+        "description": "The Untraceable Avatar", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -325767,7 +325811,7 @@
     {
         "icon": "NONE",
         "itemID": "903052006",
-        "description": "Espólio - Viagem Condenada",
+        "description": "Espólio - Viagem Condenada", //conferir
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327663,8 +327707,18 @@
         "description2": "Silencioso e livre como um rato, Morse jamais deixa rastros. Ele transita entre o mundo real e a internet, movido apenas por interesses próprios.",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
+        "itemType": "PERSONAGEM",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "923052001",
+        "description": "Disparo final - Chuva de Grana", //conferir e pegar icon
+        "description2": "Vem com efeito especial no céu, de disparo final e de aniquilação em equipe. Aplicável a todas as skins.",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
         "itemType": "COLEÇÃO",
-        "collectionType": "MOLDURA DA FOTO",
+        "collectionType": "DISPARO FINAL",
         "tag": "OB52"
     }
 ]
