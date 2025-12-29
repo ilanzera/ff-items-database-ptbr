@@ -23,8 +23,9 @@ fetch(DATA_URL)
         return response.json();
     })
     .then(data => {
-        allItems = data;
-        filteredItems = data;
+        // Ordena os itens pelo itemID do menor para o maior
+        allItems = data.sort((a, b) => a.itemID - b.itemID);
+        filteredItems = [...allItems];
         populateFilters();
         renderItems();
         renderPagination();
