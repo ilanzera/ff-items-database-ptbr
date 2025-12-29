@@ -308957,7 +308957,7 @@
     {
         "icon": "Icon_Mounts_flymove_2NBCT_Bro",
         "itemID": 911005001,
-        "description": "Monster Truck - Skull Opera",
+        "description": "Planador - Susano'o do Itachi",
         "description2": "NONE",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327099,6 +327099,29 @@
         "IconInAB": "ICON_IN_CDN",
         "itemType": "COLEÇÃO",
         "collectionType": "EMOTE",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "911005201",
+        "description": "Joranda Escarlate", 
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "ASA-DELTA",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "911005202",
+        "description": "Lenda Rubi", 
+        "description_conferir": "", 
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "ASA-DELTA",
         "tag": "OB52"
     },
     {
