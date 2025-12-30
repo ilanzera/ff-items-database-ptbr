@@ -321905,7 +321905,7 @@
     {
         "icon": "NONE",
         "itemID": "203052036",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -322291,7 +322291,7 @@
     {
         "icon": "NONE",
         "itemID": "204052033",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -322688,7 +322688,7 @@
     {
         "icon": "NONE",
         "itemID": "205052034",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -323239,7 +323239,7 @@
     {
         "icon": "NONE",
         "itemID": "211052048",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -323273,7 +323273,7 @@
     {
         "icon": "NONE",
         "itemID": "211052051",
-        "description": "Capacete do Tesouro Lv.2", 
+        "description": "Capacete do Tesouro Lv.2",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -323285,7 +323285,7 @@
     {
         "icon": "NONE",
         "itemID": "211052052",
-        "description": "Capacete do Tesouro Lv.3", 
+        "description": "Capacete do Tesouro Lv.3",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -323297,7 +323297,7 @@
     {
         "icon": "NONE",
         "itemID": "211052053",
-        "description": "Capacete do Tesouro Lv.4", 
+        "description": "Capacete do Tesouro Lv.4",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -325476,7 +325476,7 @@
     {
         "icon": "NONE",
         "itemID": "901052019",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -325756,7 +325756,7 @@
     {
         "icon": "NONE",
         "itemID": "902052025",
-        "description": "The Untraceable Avatar", 
+        "description": "The Untraceable Avatar",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -325834,7 +325834,7 @@
     {
         "icon": "NONE",
         "itemID": "903052006",
-        "description": "Espólio - Viagem Condenada", 
+        "description": "Espólio - Viagem Condenada",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -326627,7 +326627,7 @@
     {
         "icon": "NONE",
         "itemID": "907105241",
-        "description": "Granada - Explosão Ondulante", 
+        "description": "Granada - Explosão Ondulante",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -326903,7 +326903,7 @@
     {
         "icon": "NONE",
         "itemID": "909052001",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -326915,7 +326915,7 @@
     {
         "icon": "NONE",
         "itemID": "909052002",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -327092,8 +327092,8 @@
     {
         "icon": "NONE",
         "itemID": "909052018",
-        "description": "", 
-        "description_conferir": "", 
+        "description": "",
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327103,8 +327103,80 @@
     },
     {
         "icon": "NONE",
+        "itemID": "909852001",
+        "description": "Movimento Final Padrão",
+        "description_conferir": "",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "MOVIMENTO FINAL",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "909852002",
+        "description": "Ataque Infernal",
+        "description_conferir": "",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "MOVIMENTO FINAL",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "909852003",
+        "description": "Ataque Infernal",
+        "description_conferir": "",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "MOVIMENTO FINAL",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "909852004",
+        "description": "Golpe Flamejante",
+        "description_conferir": "",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "MOVIMENTO FINAL",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "909852005",
+        "description": "Golpe Flamejante",
+        "description_conferir": "",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "MOVIMENTO FINAL",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
+        "itemID": "909852006",
+        "description": "Perdido na Areia",
+        "description_conferir": "",
+        "description2": "",
+        "isUnique": true,
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "MOVIMENTO FINAL",
+        "tag": "OB52"
+    },
+    {
+        "icon": "NONE",
         "itemID": "911005201",
-        "description": "Joranda Escarlate", 
+        "description": "Jornada Escarlate",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327115,8 +327187,8 @@
     {
         "icon": "NONE",
         "itemID": "911005202",
-        "description": "Lenda Rubi", 
-        "description_conferir": "", 
+        "description": "Lenda Rubi",
+        "description_conferir": "",
         "description2": "",
         "isUnique": true,
         "IconInAB": "ICON_IN_CDN",
@@ -327127,7 +327199,7 @@
     {
         "icon": "NONE",
         "itemID": "912052001",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -327139,7 +327211,7 @@
     {
         "icon": "NONE",
         "itemID": "912052002",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
@@ -327305,7 +327377,7 @@
     {
         "icon": "NONE",
         "itemID": "921052001",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
@@ -327317,7 +327389,7 @@
     {
         "icon": "NONE",
         "itemID": "921052002",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
@@ -327329,7 +327401,7 @@
     {
         "icon": "NONE",
         "itemID": "921052003",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
@@ -327341,7 +327413,7 @@
     {
         "icon": "NONE",
         "itemID": "921052004",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
@@ -327353,7 +327425,7 @@
     {
         "icon": "NONE",
         "itemID": "921052005",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Yuuji Itadori",
         "isUnique": true,
@@ -327365,7 +327437,7 @@
     {
         "icon": "NONE",
         "itemID": "921052006",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
@@ -327377,7 +327449,7 @@
     {
         "icon": "NONE",
         "itemID": "921052007",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
@@ -327389,7 +327461,7 @@
     {
         "icon": "NONE",
         "itemID": "921052008",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
@@ -327401,7 +327473,7 @@
     {
         "icon": "NONE",
         "itemID": "921052009",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
@@ -327413,7 +327485,7 @@
     {
         "icon": "NONE",
         "itemID": "921052010",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
@@ -327425,7 +327497,7 @@
     {
         "icon": "NONE",
         "itemID": "921052011",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
@@ -327437,7 +327509,7 @@
     {
         "icon": "NONE",
         "itemID": "921052012",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
@@ -327449,7 +327521,7 @@
     {
         "icon": "NONE",
         "itemID": "921052013",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Ryomen Sukuna",
         "isUnique": true,
@@ -327461,7 +327533,7 @@
     {
         "icon": "NONE",
         "itemID": "921052014",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
@@ -327473,7 +327545,7 @@
     {
         "icon": "NONE",
         "itemID": "921052015",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
@@ -327485,7 +327557,7 @@
     {
         "icon": "NONE",
         "itemID": "921052016",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
@@ -327497,7 +327569,7 @@
     {
         "icon": "NONE",
         "itemID": "921052017",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
@@ -327509,7 +327581,7 @@
     {
         "icon": "NONE",
         "itemID": "921052018",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
@@ -327521,7 +327593,7 @@
     {
         "icon": "NONE",
         "itemID": "921052019",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
@@ -327533,7 +327605,7 @@
     {
         "icon": "NONE",
         "itemID": "921052020",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
@@ -327545,7 +327617,7 @@
     {
         "icon": "NONE",
         "itemID": "921052021",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Nobara Kugisak",
         "isUnique": true,
@@ -327667,7 +327739,7 @@
     {
         "icon": "NONE",
         "itemID": "921052032",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Satoru Gojou",
         "isUnique": true,
@@ -327679,7 +327751,7 @@
     {
         "icon": "NONE",
         "itemID": "921052033",
-        "description": "", 
+        "description": "",
         "description_conferir": "",
         "description2": "Pacote de voz Megumi Fushiguro",
         "isUnique": true,
@@ -327769,7 +327841,7 @@
     {
         "icon": "NONE",
         "itemID": "926005205",
-        "description": "Moldura Vencer o Carnaval", 
+        "description": "Moldura Vencer o Carnaval",
         "description_conferir": "",
         "description2": "",
         "isUnique": true,
