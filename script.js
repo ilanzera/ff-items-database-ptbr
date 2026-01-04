@@ -178,8 +178,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedTag = elements.tagFilter.value;
 
         filteredItems = allItems.filter(item => {
-            const title = (currentLanguage === 'EN' ? item.name || item.description : item.description) || '';
-            const summary = (currentLanguage === 'EN' ? (item.name ? item.description : '') : item.description2) || '';
+            const title = (item.name || item.description || '');
+            const summary = (item.description2 || '');
 
             const searchMatch =
                 searchTerm === "" ||
@@ -305,16 +305,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (currentLanguage === 'EN') {
             elements.modalTitle.textContent = item.name || item.description || CONFIG[currentLanguage].unknownItem;
-            elements.modalDescription.textContent = (item.name ? item.description : '') || CONFIG[currentLanguage].noDescription;
+            elements.modalDescription.textContent = getItemDescription(item);
         } else {
             elements.modalTitle.textContent = item.description || CONFIG[currentLanguage].unknownItem;
-            elements.modalDescription.textContent = getItemDescriptionPT(item);
+            elements.modalDescription.textContent = getItemDescription(item);
         }
 
         elements.modal.classList.add('active');
     }
 
-    function getItemDescriptionPT(item) {
+    function getItemDescription(item) {
         if (item.description2 && item.description2 !== "NONE" && item.description2 !== "Nulla") return item.description2;
         return CONFIG[currentLanguage].noDescription;
     }
