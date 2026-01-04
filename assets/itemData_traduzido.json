@@ -25651,6 +25651,51 @@
         "tag": "OB51"
     },
     {
+        "icon": "",
+        "itemID": 203051062,
+        "description": "Vestidinho Azul",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051063,
+        "description": "Segurança (Torso)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051064,
+        "description": "Uniforme Vermelho BFF (Torso)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051065,
+        "description": "Uniforme Branco BFF (Torso)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051066,
+        "description": "Uniforme Preto BFF (Torso)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_avatar_cos_bottom_default",
         "itemID": 204000000,
         "description": "Velocidade padrão",
@@ -41230,6 +41275,42 @@
         "tag": "OB51"
     },
     {
+        "icon": "",
+        "itemID": 204051036,
+        "description": "Segurança (Pernas)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 204051037,
+        "description": "Uniforme Vermelho BFF (Pernas)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 204051038,
+        "description": "Uniforme Branco BFF (Pernas)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 204051039,
+        "description": "Uniforme Preto BFF (Pernas)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_avatar_cos_shoe_default",
         "itemID": 205000000,
         "description": "Velocidade padrão",
@@ -55912,6 +55993,15 @@
         "icon": "Icon_avatar_cos_shoe_football25_th",
         "itemID": 205051033,
         "description": "Uniforme SEA Games - Tailândia",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 205051034,
+        "description": "Segurança (Calçado)",
         "description2": "NONE",
         "IconInAB": "ICON_IN_CDN",
         "itemType": "ROUPA",
@@ -78480,6 +78570,15 @@
         "icon": "Icon_avatar_male_cos_accessory_dreamland_yeti",
         "itemID": 211051047,
         "description": "Iéti Sonhador",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "ROUPA",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 211051048,
+        "description": "Segurança (Cabeça)",
         "description2": "NONE",
         "IconInAB": "ICON_IN_CDN",
         "itemType": "ROUPA",
@@ -171141,6 +171240,42 @@
         "tag": "OB51"
     },
     {
+        "icon": "NONE",
+        "itemID": 710051059,
+        "description": "Conjunto Segurança",
+        "description2": "Abra para receber todos os itens no conjunto!",
+        "IconInAB": "NORMAL",
+        "itemType": "PACOTE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "NONE",
+        "itemID": 710051060,
+        "description": "Conjunto Uniforme Vermelho BFF",
+        "description2": "Abra para receber todos os itens no conjunto!",
+        "IconInAB": "NORMAL",
+        "itemType": "PACOTE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "NONE",
+        "itemID": 710051061,
+        "description": "Conjunto Uniforme Branco BFF",
+        "description2": "Abra para receber todos os itens no conjunto!",
+        "IconInAB": "NORMAL",
+        "itemType": "PACOTE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "NONE",
+        "itemID": 710051062,
+        "description": "Conjunto Uniforme Preto BFF",
+        "description2": "Abra para receber todos os itens no conjunto!",
+        "IconInAB": "NORMAL",
+        "itemType": "PACOTE",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_box_3",
         "itemID": 710099999,
         "description": "TEST_240912_SUDING",
@@ -217589,6 +217724,26 @@
         "tag": "OB51"
     },
     {
+        "icon": "",
+        "itemID": 901051017,
+        "description": "Banner Arquiteto Genial",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "BANNER",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 901051018,
+        "description": "Banner Construtor Estrela",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "BANNER",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_callsign_storehp_FF_01",
         "itemID": 902000001,
         "description": "Banner Estrela do K-pop",
@@ -227212,6 +227367,36 @@
         "icon": "Icon_face_DA_Avatar",
         "itemID": 902051035,
         "description": "Avatar Agumon",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "AVATAR",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 902051036,
+        "description": "Avatar Capivara",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "AVATAR",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 902051037,
+        "description": "Avatar Arquiteto Genial",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLEÇÃO",
+        "collectionType": "AVATAR",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 902051038,
+        "description": "Avatar Construtor Estrela",
         "description2": "NONE",
         "IconInAB": "ICON_IN_CDN",
         "itemType": "COLEÇÃO",

@@ -28500,6 +28500,56 @@
         "tag": "OB51"
     },
     {
+        "icon": "",
+        "itemID": 203051062,
+        "description": "Blue Bodycon Dress",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051063,
+        "description": "Safekeeper (Top)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051064,
+        "description": "BFF Jersey Red (Top)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051065,
+        "description": "BFF Jersey White (Top)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 203051066,
+        "description": "BFF Jersey Black (Top)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_avatar_cos_bottom_default",
         "itemID": 204000000,
         "description": "Default",
@@ -45810,6 +45860,46 @@
         "tag": "OB51"
     },
     {
+        "icon": "",
+        "itemID": 204051036,
+        "description": "Safekeeper (Bottom)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 204051037,
+        "description": "BFF Jersey Red (Bottom)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 204051038,
+        "description": "BFF Jersey White (Bottom)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 204051039,
+        "description": "BFF Jersey Black (Bottom)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_avatar_cos_shoe_default",
         "itemID": 205000000,
         "description": "Default",
@@ -62123,6 +62213,16 @@
         "icon": "Icon_avatar_cos_shoe_football25_th",
         "itemID": 205051033,
         "description": "SEA Games Thailand Jersey (Shoes)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 205051034,
+        "description": "Safekeeper (Shoes)",
         "description2": "NONE",
         "IconInAB": "ICON_IN_CDN",
         "itemType": "CLOTHES",
@@ -87163,6 +87263,16 @@
         "icon": "Icon_avatar_male_cos_accessory_dreamland_yeti",
         "itemID": 211051047,
         "description": "Dreamy Yeti (Mask)",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "CLOTHES",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 211051048,
+        "description": "Safekeeper (Head)",
         "description2": "NONE",
         "IconInAB": "ICON_IN_CDN",
         "itemType": "CLOTHES",
@@ -190120,6 +190230,46 @@
         "tag": "OB51"
     },
     {
+        "icon": "NONE",
+        "itemID": 710051059,
+        "description": "Safekeeper Bundle",
+        "description2": "Open to receive all the items in the bundle!",
+        "IconInAB": "NORMAL",
+        "itemType": "BUNDLE",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "NONE",
+        "itemID": 710051060,
+        "description": "BFF Jersey Red Bundle",
+        "description2": "Open to receive all the items in the bundle!",
+        "IconInAB": "NORMAL",
+        "itemType": "BUNDLE",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "NONE",
+        "itemID": 710051061,
+        "description": "BFF Jersey White Bundle",
+        "description2": "Open to receive all the items in the bundle!",
+        "IconInAB": "NORMAL",
+        "itemType": "BUNDLE",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
+        "icon": "NONE",
+        "itemID": 710051062,
+        "description": "BFF Jersey Black Bundle",
+        "description2": "Open to receive all the items in the bundle!",
+        "IconInAB": "NORMAL",
+        "itemType": "BUNDLE",
+        "collectionType": "NONE",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_box_3",
         "itemID": 710099999,
         "description": null,
@@ -240620,6 +240770,26 @@
         "tag": "OB51"
     },
     {
+        "icon": "",
+        "itemID": 901051017,
+        "description": "Genius Architect Banner",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLLECTION",
+        "collectionType": "BANNER",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 901051018,
+        "description": "Stellar Crafter Banner",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLLECTION",
+        "collectionType": "BANNER",
+        "tag": "OB51"
+    },
+    {
         "icon": "Icon_callsign_storehp_FF_01",
         "itemID": 902000001,
         "description": "NONE",
@@ -250243,6 +250413,36 @@
         "icon": "Icon_face_DA_Avatar",
         "itemID": 902051035,
         "description": "Agumon Avatar",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLLECTION",
+        "collectionType": "HEADPIC",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 902051036,
+        "description": "Capybara Avatar",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLLECTION",
+        "collectionType": "HEADPIC",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 902051037,
+        "description": "Genius Architect Avatar",
+        "description2": "NONE",
+        "IconInAB": "ICON_IN_CDN",
+        "itemType": "COLLECTION",
+        "collectionType": "HEADPIC",
+        "tag": "OB51"
+    },
+    {
+        "icon": "",
+        "itemID": 902051038,
+        "description": "Stellar Crafter Avatar",
         "description2": "NONE",
         "IconInAB": "ICON_IN_CDN",
         "itemType": "COLLECTION",
