@@ -7,7 +7,7 @@ const CONFIG = {
         allTypes: 'Todos os Tipos',
         allCollections: 'Todas as Coleções',
         allTags: 'Todas as Atualizações',
-        footerCopy: '© 2025 Ilanzera | Todos os direitos reservados',
+        footerCopy: '© 2026 Ilanzera | Todos os direitos reservados',
         footerGarena: 'Este conteúdo não está afiliado a nenhuma parte da Garena ou do Free Fire.',
         footerEdu: 'Uso apenas para fins educacionais e para auxiliar na busca de itens dentro do jogo.',
         noItems: 'Nenhum item encontrado.',
@@ -24,7 +24,7 @@ const CONFIG = {
         allTypes: 'All Types',
         allCollections: 'All Collections',
         allTags: 'All Updates',
-        footerCopy: '© 2025 Ilanzera | All rights reserved',
+        footerCopy: '© 2026 Ilanzera | All rights reserved',
         footerGarena: 'This content is not affiliated with Garena or Free Fire.',
         footerEdu: 'For educational purposes only and to help search for items in-game.',
         noItems: 'No items found.',
@@ -64,7 +64,8 @@ document.addEventListener('DOMContentLoaded', () => {
         footerGarena: document.getElementById('footerGarena'),
         footerEdu: document.getElementById('footerEdu'),
         btnPT: document.getElementById('btnPT'),
-        btnEN: document.getElementById('btnEN')
+        btnEN: document.getElementById('btnEN'),
+        copyIDBtn: document.getElementById('copyIDBtn')
     };
 
     window.elements = elements;
@@ -220,19 +221,41 @@ document.addEventListener('DOMContentLoaded', () => {
             const div = document.createElement('div');
             div.className = 'item';
 
+            const img = document.createElement('img');
+            img.alt = 'Item';
+            img.loading = 'lazy';
+
             const imgSrc = `./assets/icons/${item.itemID}_rgb.png`;
             const fallbackSrc = `./assets/icons/NONE.png`;
 
-            div.innerHTML = `
-                <img 
-                    src="${imgSrc}" 
-                    alt="Item" 
-                    loading="lazy"
-                    onerror="this.onerror=null; this.src='${fallbackSrc}'">
-                <div style="margin-top: 10px; font-size: 0.8rem; color: #888;">
-                    ${item.itemID}
-                </div>
-            `;
+            img.classList.add('not-animated');
+
+            img.onerror = function () {
+                this.onerror = null;
+                this.src = fallbackSrc;
+                this.classList.remove('not-animated');
+            };
+
+            img.onload = function () {
+                if (String(item.itemID).startsWith('907') && this.naturalHeight === 90) {
+                    this.classList.add('rotated');
+                }
+                // Force reflow to flush the 'rotated' change without transition
+                void this.offsetWidth;
+                // Re-enable transitions for hover effects
+                this.classList.remove('not-animated');
+            };
+
+            img.src = imgSrc;
+
+            const idDiv = document.createElement('div');
+            idDiv.style.marginTop = '10px';
+            idDiv.style.fontSize = '0.8rem';
+            idDiv.style.color = '#888';
+            idDiv.textContent = item.itemID;
+
+            div.appendChild(img);
+            div.appendChild(idDiv);
 
             div.addEventListener('click', () => openModal(item));
             elements.itemsContainer.appendChild(div);
@@ -302,6 +325,42 @@ document.addEventListener('DOMContentLoaded', () => {
         elements.modalIcon.onerror = () => { elements.modalIcon.src = './assets/icons/NONE.png'; };
         elements.modalIcon.src = `./assets/icons/${item.itemID}_rgb.png`;
         elements.modalID.textContent = `${CONFIG[currentLanguage].idPrefix}${item.itemID}`;
+
+        if (elements.copyIDBtn) {
+            elements.copyIDBtn.onclick = () => {
+                const textToCopy = String(item.itemID);
+
+                // Try modern API first, fallback to legacy if needed (e.g. for file:// protocol)
+                if (navigator.clipboard && window.isSecureContext) {
+                    navigator.clipboard.writeText(textToCopy)
+                        .then(showSuccessFeedback)
+                        .catch(err => console.error('Clip API failed:', err));
+                } else {
+                    // Fallback
+                    const textArea = document.createElement("textarea");
+                    textArea.value = textToCopy;
+                    textArea.style.position = "fixed";
+                    document.body.appendChild(textArea);
+                    textArea.focus();
+                    textArea.select();
+                    try {
+                        document.execCommand('copy');
+                        showSuccessFeedback();
+                    } catch (err) {
+                        console.error('Fallback copy failed:', err);
+                    }
+                    document.body.removeChild(textArea);
+                }
+
+                function showSuccessFeedback() {
+                    const originalColor = elements.copyIDBtn.style.color;
+                    elements.copyIDBtn.style.color = '#4caf50';
+                    setTimeout(() => {
+                        elements.copyIDBtn.style.color = originalColor;
+                    }, 1000);
+                }
+            };
+        }
 
         if (currentLanguage === 'EN') {
             elements.modalTitle.textContent = item.name || item.description || CONFIG[currentLanguage].unknownItem;

@@ -218,6 +218,14 @@ main {
     transform: scale(1.1);
 }
 
+.item img.rotated {
+    transform: rotate(45deg);
+}
+
+.item:hover img.rotated {
+    transform: rotate(45deg) scale(1.1);
+}
+
 .pagination-container {
     display: flex;
     justify-content: center;
@@ -262,7 +270,7 @@ main {
 }
 
 .modal {
-    display: none;
+    display: flex;
     position: fixed;
     top: 0;
     left: 0;
@@ -274,12 +282,15 @@ main {
     align-items: center;
     justify-content: center;
     opacity: 0;
-    transition: opacity 0.3s ease;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 
 .modal.active {
-    display: flex;
     opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
 }
 
 .modal-content {
@@ -291,13 +302,15 @@ main {
     width: 90%;
     text-align: center;
     position: relative;
-    transform: scale(0.9);
-    transition: transform 0.3s ease;
+    transform: scale(0);
+    opacity: 0;
+    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7);
 }
 
 .modal.active .modal-content {
     transform: scale(1);
+    opacity: 1;
 }
 
 .modal-content img {
@@ -308,16 +321,48 @@ main {
     filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.4));
 }
 
+.modal.active .modal-content img {
+    animation: modalImageEntry 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0.2s both;
+}
+
+@keyframes modalImageEntry {
+    0% {
+        opacity: 0;
+        transform: scale(0.5) translateY(20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
 .modal h2 {
     color: var(--accent-color);
     margin: 0 0 10px;
     font-size: 1.5rem;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.4s ease 0.3s;
+}
+
+.modal.active h2 {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .modal p {
     color: var(--text-secondary);
     line-height: 1.6;
     margin: 0;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.4s ease 0.4s;
+}
+
+.modal.active p {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .close {
@@ -367,4 +412,30 @@ main {
         justify-content: center;
         margin-bottom: 20px;
     }
+}
+
+.copy-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.copy-btn:hover {
+    color: var(--accent-color);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.copy-btn:active {
+    transform: scale(0.95);
+}
+
+.not-animated {
+    transition: none !important;
 }
