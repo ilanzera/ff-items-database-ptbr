@@ -291103,7 +291103,7 @@
     },
     {
         "icon": "NONE",
-        "itemID": "204052001",
+        "itemID": "204052000",
         "description": "Yuuji Itadori (Pernas)",
         "description2": "",
         "IconInAB": "ICON_IN_CDN",
@@ -296791,13 +296791,13 @@
     },
     {
         "icon": "NONE",
-        "itemID": "170051001",
+        "itemID": "170051002",
         "description": "Pacote Escolhas Inicial Verde 1",
         "description2": "Abra para receber super recompensas",
         "IconInAB": "ICON_IN_CDN",
         "itemType": "CAIXA",
         "collectionType": "",
-        "tag": "OB51"
+        "tag": "OB52"
     },
     {
         "icon": "NONE",
