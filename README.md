@@ -18,6 +18,7 @@ Um banco de dados completo, com código aberto para uso, onde poderão buscar it
 ## Fonte dos Dados
 
 - `/assets/itemData_traduzido.json` – Banco de Dados principal em PT-BR
+- `/assets/itemData.json` – Banco de Dados principal em EN
 - `/assets/icons` – Imagens mapeadas para os itens
 
 ## Contribua com meu projeto :D
