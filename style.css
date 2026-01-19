@@ -117,10 +117,17 @@ h1 {
     align-items: center;
 }
 
-#searchInput {
+.search-wrapper {
+    position: relative;
     width: 100%;
     max-width: 600px;
-    padding: 15px 25px;
+    display: flex;
+    align-items: center;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 15px 50px 15px 25px;
     font-size: 1.1rem;
     background: rgba(30, 30, 30, 0.6);
     border: 1px solid var(--card-border);
@@ -136,6 +143,24 @@ h1 {
     background: rgba(50, 50, 50, 0.8);
     border-color: var(--accent-color);
     box-shadow: 0 0 15px rgba(73, 70, 255, 0.3);
+}
+
+.clear-btn {
+    position: absolute;
+    right: 15px;
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    display: none;
+    transition: color 0.3s ease;
+}
+
+.clear-btn:hover {
+    color: #fff;
 }
 
 .filters {
@@ -298,7 +323,7 @@ main {
     border: 1px solid rgba(255, 255, 255, 0.1);
     padding: 40px;
     border-radius: 20px;
-    max-width: 450px;
+    max-width: 600px;
     width: 90%;
     text-align: center;
     position: relative;
@@ -314,8 +339,8 @@ main {
 }
 
 .modal-content img {
-    width: 140px;
-    height: 140px;
+    width: 250px;
+    height: 250px;
     object-fit: contain;
     margin-bottom: 20px;
     filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.4));
@@ -340,7 +365,7 @@ main {
 .modal h2 {
     color: var(--accent-color);
     margin: 0 0 10px;
-    font-size: 1.5rem;
+    font-size: 2.2rem;
     opacity: 0;
     transform: translateY(20px);
     transition: all 0.4s ease 0.3s;
@@ -351,10 +376,15 @@ main {
     transform: translateY(0);
 }
 
+#modalID {
+    font-size: 1.2rem;
+}
+
 .modal p {
     color: var(--text-secondary);
     line-height: 1.6;
     margin: 0;
+    font-size: 1.1rem;
     opacity: 0;
     transform: translateY(20px);
     transition: all 0.4s ease 0.4s;
@@ -393,6 +423,12 @@ main {
     .item img {
         width: 60px;
         height: 60px;
+    }
+
+    .modal-content img {
+        width: 100%;
+        height: auto;
+        max-width: 200px;
     }
 
     .filters {

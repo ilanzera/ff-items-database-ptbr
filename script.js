@@ -65,7 +65,9 @@ document.addEventListener('DOMContentLoaded', () => {
         footerEdu: document.getElementById('footerEdu'),
         btnPT: document.getElementById('btnPT'),
         btnEN: document.getElementById('btnEN'),
-        copyIDBtn: document.getElementById('copyIDBtn')
+        btnEN: document.getElementById('btnEN'),
+        copyIDBtn: document.getElementById('copyIDBtn'),
+        clearSearchBtn: document.getElementById('clearSearchBtn')
     };
 
     window.elements = elements;
@@ -198,12 +200,24 @@ document.addEventListener('DOMContentLoaded', () => {
         currentPage = 1;
         renderItems();
         renderPagination();
+
+        if (elements.clearSearchBtn) {
+            elements.clearSearchBtn.style.display = searchTerm.length > 0 ? 'block' : 'none';
+        }
     }
 
     elements.searchInput.addEventListener('input', applyFilters);
     elements.typeFilter.addEventListener('change', applyFilters);
     elements.collectionFilter.addEventListener('change', applyFilters);
     elements.tagFilter.addEventListener('change', applyFilters);
+
+    if (elements.clearSearchBtn) {
+        elements.clearSearchBtn.addEventListener('click', () => {
+            elements.searchInput.value = '';
+            elements.searchInput.focus();
+            applyFilters();
+        });
+    }
 
     function renderItems() {
         elements.itemsContainer.innerHTML = '';
@@ -225,7 +239,7 @@ document.addEventListener('DOMContentLoaded', () => {
             img.alt = 'Item';
             img.loading = 'lazy';
 
-            const imgSrc = `./assets/icons/${item.itemID}_rgb.png`;
+            const imgSrc = `./assets/icons/${item.itemID}.png`;
             const fallbackSrc = `./assets/icons/NONE.png`;
 
             img.classList.add('not-animated');
@@ -323,7 +337,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function openModal(item) {
         elements.modalIcon.onerror = () => { elements.modalIcon.src = './assets/icons/NONE.png'; };
-        elements.modalIcon.src = `./assets/icons/${item.itemID}_rgb.png`;
+        elements.modalIcon.src = `./assets/icons/${item.itemID}.png`;
         elements.modalID.textContent = `${CONFIG[currentLanguage].idPrefix}${item.itemID}`;
 
         if (elements.copyIDBtn) {
