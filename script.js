@@ -239,7 +239,7 @@ document.addEventListener('DOMContentLoaded', () => {
             img.alt = 'Item';
             img.loading = 'lazy';
 
-            const imgSrc = `./assets/icons/${item.itemID}_rgb.png`;
+            const imgSrc = `./assets/icons/${item.itemID}.png`;
             const fallbackSrc = `./assets/icons/NONE.png`;
 
             img.classList.add('not-animated');
@@ -337,7 +337,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function openModal(item) {
         elements.modalIcon.onerror = () => { elements.modalIcon.src = './assets/icons/NONE.png'; };
-        elements.modalIcon.src = `./assets/icons/${item.itemID}_rgb.png`;
+        elements.modalIcon.src = `./assets/icons/${item.itemID}.png`;
         elements.modalID.textContent = `${CONFIG[currentLanguage].idPrefix}${item.itemID}`;
 
         if (elements.copyIDBtn) {
