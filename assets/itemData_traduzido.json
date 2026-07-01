@@ -238999,7 +238999,7 @@
     },
     {
         "itemID": 211054001,
-        "name": "Campeão Eletrizante (Máscara)",
+        "name": "Campeão Eletrizante (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239020,7 +239020,7 @@
     },
     {
         "itemID": 211054004,
-        "name": "Inocência do Cordeiro (Máscara)",
+        "name": "Inocência do Cordeiro (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239034,28 +239034,28 @@
     },
     {
         "itemID": 211054006,
-        "name": "Maçãzudo (Máscara)",
+        "name": "Maçãzudo (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054007,
-        "name": "Maçãzete (Máscara)",
+        "name": "Maçãzete (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054008,
-        "name": "Galã Impecável (Máscara)",
+        "name": "Galã Impecável (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054009,
-        "name": "Musa Impecável (Máscara)",
+        "name": "Musa Impecável (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239069,7 +239069,7 @@
     },
     {
         "itemID": 211054011,
-        "name": "Renascer Fragmentado (Máscara)",
+        "name": "Renascer Fragmentado (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239083,7 +239083,7 @@
     },
     {
         "itemID": 211054013,
-        "name": "Ascensão Fragmentada (Máscara)",
+        "name": "Ascensão Fragmentada (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239097,7 +239097,7 @@
     },
     {
         "itemID": 211054015,
-        "name": "Guerreira Escarlate (Máscara)",
+        "name": "Guerreira Escarlate (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239111,7 +239111,7 @@
     },
     {
         "itemID": 211054017,
-        "name": "Colapso Psíquico (Máscara)",
+        "name": "Colapso Psíquico (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239125,7 +239125,7 @@
     },
     {
         "itemID": 211054019,
-        "name": "Ruptura Psíquica (Máscara)",
+        "name": "Ruptura Psíquica (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239146,7 +239146,7 @@
     },
     {
         "itemID": 211054022,
-        "name": "Capitão Justiça (Máscara)",
+        "name": "Capitão Justiça (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239160,14 +239160,14 @@
     },
     {
         "itemID": 211054024,
-        "name": "Atitude do Jeans (Máscara)",
+        "name": "Atitude do Jeans (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054025,
-        "name": "Charme do Jeans (Máscara)",
+        "name": "Charme do Jeans (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239181,56 +239181,56 @@
     },
     {
         "itemID": 211054027,
-        "name": "Ritmo Rebelde (Máscara)",
+        "name": "Ritmo Rebelde (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054028,
-        "name": "Ritmo Cromado (Máscara)",
+        "name": "Ritmo Cromado (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054029,
-        "name": "Pijama Estiloso (Máscara)",
+        "name": "Pijama Estiloso (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054030,
-        "name": "Pijama Confortável (Máscara)",
+        "name": "Pijama Confortável (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054031,
-        "name": "Vibe Metamorfose (Máscara)",
+        "name": "Vibe Metamorfose (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054032,
-        "name": "Vibe Borboleta (Máscara)",
+        "name": "Vibe Borboleta (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054033,
-        "name": "Fragmentos Urbanos (Máscara)",
+        "name": "Fragmentos Urbanos (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054034,
-        "name": "Fragmentos das Ruas (Máscara)",
+        "name": "Fragmentos das Ruas (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239244,14 +239244,14 @@
     },
     {
         "itemID": 211054036,
-        "name": "Legado Fragmentado (Máscara)",
+        "name": "Legado Fragmentado (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054037,
-        "name": "Dama Escarlate (Máscara)",
+        "name": "Dama Escarlate (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239265,14 +239265,14 @@
     },
     {
         "itemID": 211054039,
-        "name": "Boné EWC 2026 (Máscara)",
+        "name": "Boné EWC 2026 (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054040,
-        "name": "Bebê Águia (Máscara)",
+        "name": "Bebê Águia (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239293,7 +239293,7 @@
     },
     {
         "itemID": 211054043,
-        "name": "Ritmo Rosado (Máscara)",
+        "name": "Ritmo Rosado (Cabeça)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239321,63 +239321,63 @@
     },
     {
         "itemID": 211054047,
-        "name": "Máscara - Rin (Máscara)",
+        "name": "Máscara - Rin",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054000,
-        "name": "Maçãzete",
+        "name": "Maçãzete (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054001,
-        "name": "Olhar 43",
+        "name": "Olhar 43 (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054002,
-        "name": "Brilho Fragmentado",
+        "name": "Brilho Fragmentado (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054003,
-        "name": "Marca Escarlate",
+        "name": "Marca Escarlate (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054004,
-        "name": "Pintura facial Borboleta",
+        "name": "Pintura facial Borboleta (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054005,
-        "name": "Ritmo Rosado",
+        "name": "Ritmo Rosado (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054006,
-        "name": "Ritmo Rebelde",
+        "name": "Ritmo Rebelde (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054007,
-        "name": "Guerreira Escarlate",
+        "name": "Guerreira Escarlate (Pintura Facial)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
