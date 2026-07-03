@@ -161292,13 +161292,6 @@
         "tag": ""
     },
     {
-        "itemID": 829004601,
-        "name": "Dimas temporários",
-        "description": "Diamantes por tempo limitado podem ser usados para comprar itens em uma loja especial",
-        "itemType": "TOKEN",
-        "tag": ""
-    },
-    {
         "itemID": 829004901,
         "name": "Dimas temporários",
         "description": "Diamantes por tempo limitado podem ser usados para comprar itens em uma loja especial",
@@ -233091,13 +233084,6 @@
         "tag": ""
     },
     {
-        "itemID": 819860131,
-        "name": "Ticket de Fragmentos de Pacote",
-        "description": "Use para fazer tentativas e ganhar prêmios!",
-        "itemType": "TOKEN",
-        "tag": ""
-    },
-    {
         "itemID": 819860531,
         "name": "Ticket de Fragmentos de Pacote",
         "description": "Use para fazer tentativas e ganhar prêmios!",
@@ -238999,7 +238985,7 @@
     },
     {
         "itemID": 211054001,
-        "name": "Campeão Eletrizante (Cabeça)",
+        "name": "Campeão Eletrizante (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239020,7 +239006,7 @@
     },
     {
         "itemID": 211054004,
-        "name": "Inocência do Cordeiro (Cabeça)",
+        "name": "Inocência do Cordeiro (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239034,28 +239020,28 @@
     },
     {
         "itemID": 211054006,
-        "name": "Maçãzudo (Cabeça)",
+        "name": "Maçãzudo (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054007,
-        "name": "Maçãzete (Cabeça)",
+        "name": "Maçãzete (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054008,
-        "name": "Galã Impecável (Cabeça)",
+        "name": "Galã Impecável (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054009,
-        "name": "Musa Impecável (Cabeça)",
+        "name": "Musa Impecável (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239069,7 +239055,7 @@
     },
     {
         "itemID": 211054011,
-        "name": "Renascer Fragmentado (Cabeça)",
+        "name": "Renascer Fragmentado (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239083,7 +239069,7 @@
     },
     {
         "itemID": 211054013,
-        "name": "Ascensão Fragmentada (Cabeça)",
+        "name": "Ascensão Fragmentada (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239097,7 +239083,7 @@
     },
     {
         "itemID": 211054015,
-        "name": "Guerreira Escarlate (Cabeça)",
+        "name": "Guerreira Escarlate (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239111,7 +239097,7 @@
     },
     {
         "itemID": 211054017,
-        "name": "Colapso Psíquico (Cabeça)",
+        "name": "Colapso Psíquico (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239125,7 +239111,7 @@
     },
     {
         "itemID": 211054019,
-        "name": "Ruptura Psíquica (Cabeça)",
+        "name": "Ruptura Psíquica (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239146,7 +239132,7 @@
     },
     {
         "itemID": 211054022,
-        "name": "Capitão Justiça (Cabeça)",
+        "name": "Capitão Justiça (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239160,14 +239146,14 @@
     },
     {
         "itemID": 211054024,
-        "name": "Atitude do Jeans (Cabeça)",
+        "name": "Atitude do Jeans (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054025,
-        "name": "Charme do Jeans (Cabeça)",
+        "name": "Charme do Jeans (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239181,56 +239167,56 @@
     },
     {
         "itemID": 211054027,
-        "name": "Ritmo Rebelde (Cabeça)",
+        "name": "Ritmo Rebelde (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054028,
-        "name": "Ritmo Cromado (Cabeça)",
+        "name": "Ritmo Cromado (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054029,
-        "name": "Pijama Estiloso (Cabeça)",
+        "name": "Pijama Estiloso (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054030,
-        "name": "Pijama Confortável (Cabeça)",
+        "name": "Pijama Confortável (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054031,
-        "name": "Vibe Metamorfose (Cabeça)",
+        "name": "Vibe Metamorfose (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054032,
-        "name": "Vibe Borboleta (Cabeça)",
+        "name": "Vibe Borboleta (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054033,
-        "name": "Fragmentos Urbanos (Cabeça)",
+        "name": "Fragmentos Urbanos (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054034,
-        "name": "Fragmentos das Ruas (Cabeça)",
+        "name": "Fragmentos das Ruas (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239244,14 +239230,14 @@
     },
     {
         "itemID": 211054036,
-        "name": "Legado Fragmentado (Cabeça)",
+        "name": "Legado Fragmentado (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054037,
-        "name": "Dama Escarlate (Cabeça)",
+        "name": "Dama Escarlate (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239265,14 +239251,14 @@
     },
     {
         "itemID": 211054039,
-        "name": "Boné EWC 2026 (Cabeça)",
+        "name": "Boné EWC 2026 (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 211054040,
-        "name": "Bebê Águia (Cabeça)",
+        "name": "Bebê Águia (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239293,7 +239279,7 @@
     },
     {
         "itemID": 211054043,
-        "name": "Ritmo Rosado (Cabeça)",
+        "name": "Ritmo Rosado (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -239321,63 +239307,63 @@
     },
     {
         "itemID": 211054047,
-        "name": "Máscara - Rin",
+        "name": "Máscara - Rin (Máscara)",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054000,
-        "name": "Maçãzete (Pintura Facial)",
+        "name": "Maçãzete",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054001,
-        "name": "Olhar 43 (Pintura Facial)",
+        "name": "Olhar 43",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054002,
-        "name": "Brilho Fragmentado (Pintura Facial)",
+        "name": "Brilho Fragmentado",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054003,
-        "name": "Marca Escarlate (Pintura Facial)",
+        "name": "Marca Escarlate",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054004,
-        "name": "Pintura facial Borboleta (Pintura Facial)",
+        "name": "Pintura facial Borboleta",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054005,
-        "name": "Ritmo Rosado (Pintura Facial)",
+        "name": "Ritmo Rosado",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054006,
-        "name": "Ritmo Rebelde (Pintura Facial)",
+        "name": "Ritmo Rebelde",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
     },
     {
         "itemID": 214054007,
-        "name": "Guerreira Escarlate (Pintura Facial)",
+        "name": "Guerreira Escarlate",
         "description": "",
         "itemType": "ROUPA",
         "tag": "OB54"
@@ -242708,5 +242694,1207 @@
         "itemType": "COLEÇÃO",
         "tag": "OB54",
         "collectionType": "STICKER"
+    },
+    {
+        "itemID": 1310000208,
+        "name": "Traje de Pet: Samalandra no Ritmo",
+        "description": "",
+        "itemType": "PET",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 1310000236,
+        "name": "Traje de Pet: Lupino Escarlate",
+        "description": "",
+        "itemType": "PET",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 203053026,
+        "name": "Guardião do Sol",
+        "description": "",
+        "itemType": "ROUPA",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 203053032,
+        "name": "Borboleta Delicada",
+        "description": "",
+        "itemType": "ROUPA",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 204053024,
+        "name": "Guardião do Sol",
+        "description": "",
+        "itemType": "ROUPA",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 205053024,
+        "name": "Guardião do Sol",
+        "description": "",
+        "itemType": "ROUPA",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 211053049,
+        "name": "Cabelo do Hamza Choudhury",
+        "description": "",
+        "itemType": "ROUPA",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 246754001,
+        "name": "Chapéu Tubarão Rosa",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754002,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754003,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754004,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754005,
+        "name": "Balão rosa e azul",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754006,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754007,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754008,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754009,
+        "name": "Bola de fogo roxa",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754010,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754011,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754012,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754013,
+        "name": "Óculos de Mergulho Branco",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754014,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754015,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754016,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754017,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754018,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754019,
+        "name": "Asas Douradas",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754020,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754021,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754022,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246754023,
+        "name": "",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246954004,
+        "name": "Rosa",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 246954007,
+        "name": "Ciano",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "SKIN PYRO"
+    },
+    {
+        "itemID": 710053026,
+        "name": "Conjunto Exclusivo do Airdrop Especial 1",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053027,
+        "name": "Conjunto Exclusivo do Airdrop Especial 2",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053028,
+        "name": "Conjunto Exclusivo do Airdrop Especial 3",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053029,
+        "name": "Conjunto Exclusivo do Airdrop Especial 4",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053030,
+        "name": "Conjunto Exclusivo do Airdrop Especial 5",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053031,
+        "name": "Conjunto Exclusivo do Airdrop Especial 6",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053032,
+        "name": "Conjunto Exclusivo do Airdrop Especial 7",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053033,
+        "name": "Conjunto Exclusivo do Airdrop Especial 8",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053034,
+        "name": "Conjunto Exclusivo do Airdrop Especial 9",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053035,
+        "name": "Conjunto Exclusivo do Airdrop Especial 10",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053036,
+        "name": "Conjunto Exclusivo do Airdrop Especial 11",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053037,
+        "name": "Conjunto Exclusivo do Airdrop Especial 12",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053038,
+        "name": "Conjunto Exclusivo do Airdrop Especial 13",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053039,
+        "name": "Conjunto Exclusivo do Airdrop Especial 14",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053040,
+        "name": "Conjunto Exclusivo do Airdrop Especial 15",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053041,
+        "name": "Conjunto Exclusivo do Airdrop Especial 16",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053042,
+        "name": "Conjunto Exclusivo do Airdrop Especial 17",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053043,
+        "name": "Conjunto Exclusivo do Airdrop Especial 18",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053044,
+        "name": "Conjunto Exclusivo do Airdrop Especial 19",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053045,
+        "name": "Conjunto Exclusivo do Airdrop Especial 20",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053052,
+        "name": "Conjunto Teste de Skin de Arma 1",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053053,
+        "name": "Conjunto Teste de Skin de Arma 2",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053054,
+        "name": "Conjunto Teste de Skin de Arma 3",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053055,
+        "name": "Conjunto Teste de Skin de Arma 4",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053056,
+        "name": "Conjunto Teste de Skin de Arma 5",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053057,
+        "name": "Conjunto Teste de Skin de Arma 6",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053058,
+        "name": "Conjunto Teste de Skin de Arma 7",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053059,
+        "name": "Conjunto Teste de Skin de Arma 8",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053060,
+        "name": "Conjunto Teste de Skin de Arma 9",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053061,
+        "name": "Conjunto Teste de Skin de Arma 10",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053062,
+        "name": "Conjunto Teste de Skin de Arma 11",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053063,
+        "name": "Conjunto Teste de Skin de Arma 12",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053064,
+        "name": "Conjunto Teste de Skin de Arma 13",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053065,
+        "name": "Conjunto Teste de Skin de Arma 14",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053066,
+        "name": "Conjunto Teste de Skin de Arma 15",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053067,
+        "name": "Conjunto Teste de Skin de Arma 16",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053068,
+        "name": "Conjunto Teste de Skin de Arma 17",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053069,
+        "name": "Conjunto Teste de Skin de Arma 18",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053070,
+        "name": "Conjunto Teste de Skin de Arma 19",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053071,
+        "name": "Conjunto Teste de Skin de Arma 20",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053072,
+        "name": "Conjunto Teste de Skin de Arma 21",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053073,
+        "name": "Conjunto Teste de Skin de Arma 22",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053074,
+        "name": "Conjunto Teste de Skin de Arma 23",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053075,
+        "name": "Conjunto Teste de Skin de Arma 24",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053076,
+        "name": "Conjunto Teste de Skin de Arma 25",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053077,
+        "name": "Conjunto Teste de Skin de Arma 26",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053078,
+        "name": "Conjunto Teste de Skin de Arma 27",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053079,
+        "name": "Conjunto Teste de Skin de Arma 28",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053080,
+        "name": "Conjunto Teste de Skin de Arma 29",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053081,
+        "name": "Conjunto Teste de Skin de Arma 30",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053082,
+        "name": "Conjunto Teste de Skin de Arma 31",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053083,
+        "name": "Conjunto Teste de Skin de Arma 32",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053084,
+        "name": "Conjunto Teste de Skin de Arma 33",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053085,
+        "name": "Conjunto Teste de Skin de Arma 34",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053086,
+        "name": "Conjunto Teste de Skin de Arma 35",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053087,
+        "name": "Conjunto Teste de Skin de Arma 36",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053088,
+        "name": "Conjunto Teste de Skin de Arma 37",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053089,
+        "name": "Conjunto Teste de Skin de Arma 38",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053090,
+        "name": "Conjunto Teste de Skin de Arma 39",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053091,
+        "name": "Conjunto Teste de Skin de Arma 40",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053096,
+        "name": "Conjunto Teste de Skin de Arma 40",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053099,
+        "name": "Pacote de Voz do Ronaldinho Gaúcho",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053100,
+        "name": "Pacote de voz Ronaldinho",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 710053101,
+        "name": "Pacote de voz Bambino",
+        "description": "",
+        "itemType": "PACOTE",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 800000525,
+        "name": "Token Fragmentos da Fênix",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB52"
+    },
+    {
+        "itemID": 802000132,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 802000133,
+        "name": "Ticket Virada",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 802000134,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 802000135,
+        "name": "Ticket Virada Suprema",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 802000136,
+        "name": "Ticket Luta Livre",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 802000137,
+        "name": "Ticket de Aniversário",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 802000138,
+        "name": "",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 802000139,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB13"
+    },
+    {
+        "itemID": 818960831,
+        "name": "Fragmento de Tentativa",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 818960930,
+        "name": "Fragmento de Tentativa",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 818961031,
+        "name": "Fragmento de Tentativa",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 819860731,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 819860831,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 819860930,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 819861030,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820005051,
+        "name": "Cartão Proteção de Pontos do BR",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB50"
+    },
+    {
+        "itemID": 820005052,
+        "name": "Cartão Proteção de Pontos do BR",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB50"
+    },
+    {
+        "itemID": 820005053,
+        "name": "Cartão Proteção de Pontos do BR",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB50"
+    },
+    {
+        "itemID": 820006051,
+        "name": "Cartão de Proteção de Patente do BR",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820006052,
+        "name": "Cartão de Proteção de Patente do BR",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820006053,
+        "name": "Cartão de Proteção de Patente do BR",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820460731,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820460831,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820460930,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820461031,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820461130,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820461231,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820470131,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820470228,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820470331,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820470430,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820470531,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820470630,
+        "name": "Ticket do Tabuleiro Insano",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820560731,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820560831,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820560930,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820561031,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820561130,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820561231,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820570131,
+        "name": "Ticket Vira-Carta",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820660816,
+        "name": "Ticket BLUE LOCK",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820761130,
+        "name": "Fragmento de Tentativa",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820761231,
+        "name": "Fragmento de Tentativa",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820770131,
+        "name": "Fragmento de Tentativa",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820861130,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820861231,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 820870131,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820870228,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 820870331,
+        "name": "Ticket de Fragmentos de Pacote",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB54"
+    },
+    {
+        "itemID": 829005301,
+        "name": "Dimas temporários",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB53"
+    },
+    {
+        "itemID": 840005038,
+        "name": "Cartão de Proteção de Estrelas do CS",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB50"
+    },
+    {
+        "itemID": 840005039,
+        "name": "Cartão de Proteção de Estrelas do CS",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": "OB50"
+    },
+    {
+        "itemID": 840006038,
+        "name": "Cartão de Proteção de Patente do CS",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 840006039,
+        "name": "Cartão de Proteção de Patente do CS",
+        "description": "",
+        "itemType": "TOKEN",
+        "tag": ""
+    },
+    {
+        "itemID": 909854001,
+        "name": "O Julgamento",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB54",
+        "collectionType": "EMOTE"
+    },
+    {
+        "itemID": 921053020,
+        "name": "Tão deixando a gente sonhar!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053021,
+        "name": "Se liga no capa, invejoso!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053022,
+        "name": "Olha só mais um coitado, vou te dibrei",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053023,
+        "name": "Mais um rolê pra conta!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053024,
+        "name": "Eu realizei todos os meus sonhos.",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053025,
+        "name": "Ei, parça! É pra jogar com estilo!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053026,
+        "name": "Aproveita!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053027,
+        "name": "Eu gosto de deixar minha marca no campo",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053028,
+        "name": "Pra quê eu te trouxe aqui?",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053029,
+        "name": "Atira se quiser vencer!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053030,
+        "name": "Mas ainda há tempo!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053031,
+        "name": "Por ser um cara legal",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053032,
+        "name": "Uau, que golaço!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
+    },
+    {
+        "itemID": 921053033,
+        "name": "Que beleza!",
+        "description": "",
+        "itemType": "COLEÇÃO",
+        "tag": "OB53",
+        "collectionType": "VOZ"
     }
 ]
